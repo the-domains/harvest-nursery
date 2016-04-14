@@ -1,0 +1,28 @@
+name: Harvest Nursery
+favicon: null
+layout_spectrum: 0.5745958925690502
+typography_spectrum: 0.7676183234434575
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.14189465902745724
+  lightness: 0.5145681330468506
+  saturation: 0.4996712892316282
+  rhythmicContrast: 0.08901733392849565
+purpose: []
