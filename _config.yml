@@ -1,6 +1,6 @@
 name: Harvest Nursery
 favicon: null
-layout_spectrum: 0.5029
+layout_spectrum: 0.25943
 typography_spectrum: 0.71883
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#a6c55e'
     - '#819844'
     - '#a2a8ac'
-  brandStrength: 0.25
+  brandStrength: 0
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.25
