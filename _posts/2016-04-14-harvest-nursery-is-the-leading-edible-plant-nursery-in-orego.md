@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Harvest Nursery is the leading edible plant nursery in Oregon, serving both retail and wholesale customers. The nursery has over 300 varieties of edible plants, all at the most reasonable prices in the pacific northwest. We have two locations: one in Northeast Portland and one in Molalla.'
-datePublished: '2016-04-15T00:13:52.974Z'
-dateModified: '2016-04-15T00:10:15.031Z'
+datePublished: '2016-04-15T00:27:59.796Z'
+dateModified: '2016-04-15T00:13:54.359Z'
 title: About Us
 author: []
 sourcePath: _posts/2016-04-14-harvest-nursery-is-the-leading-edible-plant-nursery-in-orego.md
