@@ -1,40 +1,40 @@
-favicon: null
-name: Harvest Nursery
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.5
-  brandStrength: 0
-  lightness: 0.5017921
+  saturation: 0.7723404
+  brandStrength: 1
+  lightness: 0.5489362
   brandColors:
-    - '#ffffff'
-    - '#363c30'
-    - '#a6c55e'
-    - '#819844'
-    - '#a2a8ac'
-  rhythmicContrast: 0.25
-typography_spectrum: 0.71883
-layout_spectrum: 0.8010753
+    - '#110F12'
+    - '#DCD5B9'
+    - '#54504D'
+    - '#DF6B36'
+    - '#792323'
+  rhythmicContrast: 0.7723404
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Harvest Nursery
 cta:
   bucket: null
   version: null
   domain: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.8893617
+layout_spectrum: 0
